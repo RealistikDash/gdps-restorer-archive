@@ -1,0 +1,4 @@
+colorama
+mysql-connector
+pyfiglet
+progressbar2
