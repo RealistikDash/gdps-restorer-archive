@@ -11,6 +11,7 @@ Some things (such as the level ID adjust) are made in a really weird manner, so 
 
 ## Features
 ![image](https://user-images.githubusercontent.com/36131887/109429150-35683380-79f2-11eb-8f88-cabd36517710.png)
+
 GDPS Restorer currently contains multiple cleanup features.
 - Restore rating from backup
 - Adjust LevelIDs
